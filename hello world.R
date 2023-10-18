@@ -1,3 +1,1 @@
-# Econ-21020
- # hello world.R
- print("hello, world!")
+print("hello, world!")
